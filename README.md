@@ -6,5 +6,5 @@ List of projects:
 * Comparator Board for a Line-sensor
 * Pnuematic Piston Driver PCB
 * Transmitter Board
-* ULN IC Borad
+* ULN IC Board
 * PTN Voltage Regulator PCB
