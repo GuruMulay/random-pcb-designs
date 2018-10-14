@@ -1,0 +1,774 @@
+
+NET LIST REPORT -- mit684.job -- Wed Oct 31 15:53:21 2012
+
+
+*SIG AVCC 
+32X.1         32Y.1         CON1.1        CON2.1        CON3.1        
+CON4.1        32X1.16       C9.1          32X2.16       C11.1         
+32Y1.16       C36.1         IC5.16        C13.1         IC7.16        
+C24.1         32Y2.16       C38.1         IC6.16        C22.1         
+IC8.16        C26.1         IC9.16        C28.1         IC11.16       
+C32.1         IC10.16       C30.1         IC12.16       C34.1         
+32X2.10       32Y1.10       IC5.10        IC7.10        32Y2.10       
+IC6.10        IC8.10        IC9.10        IC11.10       IC10.10       
+IC12.10       32X1.10       R2.1          C40.1         7805T.O       
+D2.A          AUX5A1.1      AUX5A2.1      
+
+*SIG GND 
+CONX.2        CONX.4        CONX.6        CONX.8        CONX.10       
+CONX.12       CONX.14       CONX.16       CONX.18       CONX.20       
+CONY.2        CONY.4        CONY.6        CONY.8        CONY.10       
+CONY.12       CONY.14       CONY.16       CONY.18       CONY.20       
+JPROG.1       C54.1         D4.1          H2.1          B0.1          
+C61.1         D5.1          C63.1         J5.1          J4.1          
+C55.2         C50.1         J6.1          J7.1          C52.2         
+D6.1          C64.2         D7.1          C62.2         J8.1          
+C51.1         E7.1          C53.2         E6.1          C56.2         
+ADC5.1        ADC6.1        ADC7.1        ADC4.1        ADC3.1        
+SLCD.1        UART3.1       UART2.1       UART1.1       UART0.1       
+C46.2         C37.2         32Y2.2        32Y2.8        C25.2         
+IC7.8         IC7.2         C23.2         IC8.2         IC8.8         
+C31.2         IC11.2        IC11.8        32Y1.8        32Y1.2        
+C35.2         C47.1         IC12.2        IC12.8        C33.2         
+C48.1         C45.1         C8.2          C10.2         32X2.2        
+32X2.8        C12.2         IC5.2         IC5.8         IC6.2         
+IC6.8         IC9.2         IC9.8         IC10.2        IC10.8        
+C29.2         32X1.8        32X1.2        C49.2         C14.2         
+C27.2         R5.1          IC17.32       IC17.99       IC17.11       
+IC17.81       IC17.62       AUXSEN.16     AUXSEN.14     AUXSEN.12     
+AUXSEN.10     AUXSEN.8      AUXSEN.6      AUXSEN.4      AUXSEN.2      
+RST.2         RST.1         C59.2         C58.2         C57.2         
+C60.2         SENSOR.16     SENSOR.14     SENSOR.12     SENSOR.10     
+SENSOR.8      SENSOR.6      SENSOR.4      SENSOR.2      CON32X.20     
+CON32X.18     CON32X.16     CON32X.14     CON32X.12     CON32X.10     
+CON32X.8      CON32X.6      CON32X.4      CON32X.2      CON32Y.20     
+CON32Y.18     CON32Y.16     CON32Y.14     CON32Y.12     CON32Y.10     
+CON32Y.8      CON32Y.6      CON32Y.4      CON32Y.2      EN2.3         
+EN2.5         EN1.3         EN1.5         EN1.2         EN2.2         
+C16.1         C17.1         C20.2         C21.2         C18.2         
+C19.2         U3.28         U3.18         U3.6          U3.39         
+JPG32Y.1      RST32Y.2      RST32Y.1      C15.2         C6.1          
+C7.1          U2.28         U2.18         U2.6          U2.39         
+C2.2          C3.2          C4.2          C5.2          JPG32X.1      
+ENX1.3        ENY1.3        ENX2.3        ENY2.3        RN2.1         
+AUX5D2.2      AUX5D1.2      TD1.1         TD2.1         TD3.1         
+TD4.1         
+
+*SIG VCC 
+AUXSEN.17     AUXSEN.19     AUXSEN.18     AUXSEN.20     R6.1          
+32X1.1        C8.1          C10.1         32X2.1        C12.1         
+IC5.1         C14.1         IC6.1         C27.1         IC9.1         
+C29.1         IC10.1        SENSOR.18     SENSOR.20     SENSOR.19     
+C57.1         C58.1         C59.1         C60.1         C31.1         
+IC11.1        IC8.1         C25.1         C23.1         IC7.1         
+32Y1.1        C35.1         C33.1         IC12.1        IC17.31       
+IC17.10       IC17.80       IC17.61       C37.1         32Y2.1        
+L1.1          JPROG.2       ADC7.3        ADC6.3        ADC5.3        
+ADC4.3        ADC3.3        SLCD.3        UART3.4       UART2.4       
+UART1.4       UART0.4       EN1.6         EN2.6         ENX1.2        
+ENX2.2        ENY1.2        ENY2.2        C18.1         C19.1         
+C20.1         C21.1         U3.27         U3.17         U3.5          
+U3.38         JPG32Y.2      R3.1          U2.27         U2.17         
+U2.5          U2.38         C2.1          C3.1          C4.1          
+C5.1          JPG32X.2      R1.1          D8.A          7805T1.O      
+C43.1         R4.1          AUX5D1.1      AUX5D2.1      
+
+*SIG 32XA7 
+U2.30         JP32XA.1      CON32X.15     
+
+*SIG 32XA6 
+U2.31         JP32XA.2      CON32X.13     
+
+*SIG 32XA5 
+U2.32         JP32XA.3      CON32X.11     
+
+*SIG 32XA4 
+U2.33         JP32XA.4      CON32X.9      
+
+*SIG 32XA3 
+U2.34         JP32XA.5      CON32X.7      
+
+*SIG 32XA2 
+U2.35         JP32XA.6      CON32X.5      
+
+*SIG 32XA1 
+U2.36         JP32XA.7      CON32X.3      
+
+*SIG 32XA0 
+U2.37         CON32X.1      JP32XA.8      
+
+*SIG 32XB7 
+U2.3          JP32XB.1      JPG32X.4      
+
+*SIG 32XB6 
+U2.2          JP32XB.2      JPG32X.5      
+
+*SIG 32XB5 
+U2.1          JP32XB.3      JPG32X.6      
+
+*SIG 32XB4 
+U2.44         JP32XB.4      
+
+*SIG 32XB3 
+U2.43         JP32XB.5      32X1.3        
+
+*SIG 32XB2 
+U2.42         JP32XB.6      
+
+*SIG 32XB1 
+U2.41         JP32XB.7      CON32X.19     
+
+*SIG 32XB0 
+U2.40         JP32XB.8      CON32X.17     
+
+*SIG C0 
+IC17.53       JPC.1         IC9.4         
+
+*SIG C1 
+IC17.54       JPC.2         IC9.5         
+
+*SIG C2 
+IC17.55       JPC.3         IC10.4        
+
+*SIG C3 
+IC17.56       JPC.4         IC10.5        
+
+*SIG C4 
+IC17.57       JPC.5         IC11.4        
+
+*SIG C5 
+IC17.58       JPC.6         IC11.5        
+
+*SIG C6 
+IC17.59       JPC.7         IC12.4        
+
+*SIG C7 
+IC17.60       JPC.8         IC12.5        
+
+*SIG D0 
+IC17.43       JPD.1         CONY.17       
+
+*SIG D1 
+IC17.44       JPD.2         CONY.19       
+
+*SIG D2 
+IC17.45       JPD.3         U3.10         JP32YD.7      UART1.2       
+
+*SIG D3 
+IC17.46       JPD.4         U3.9          JP32YD.8      UART1.3       
+
+*SIG D4 
+IC17.47       JPD.5         D4.2          C54.2         
+
+*SIG D5 
+IC17.48       JPD.6         D5.2          C63.2         
+
+*SIG D6 
+IC17.49       JPD.7         D6.2          C64.1         
+
+*SIG D7 
+IC17.50       JPD.8         D7.2          C62.1         
+
+*SIG E0 
+IC17.2        JPE.1         UART0.2       
+
+*SIG E1 
+IC17.3        JPE.2         SLCD.2        UART0.3       
+
+*SIG E2 
+IC17.4        JPE.3         EN1.1         
+
+*SIG E3 
+IC17.5        JPE.4         EN2.1         
+
+*SIG E4 
+IC17.6        JPE.5         EN1.4         
+
+*SIG E5 
+IC17.7        JPE.6         EN2.4         
+
+*SIG E6 
+IC17.8        JPE.7         E6.2          C56.1         
+
+*SIG E7 
+IC17.9        JPE.8         E7.2          C53.1         
+
+*SIG L7 
+IC17.42       JPL.8         CONY.15       
+
+*SIG L6 
+IC17.41       JPL.7         CONY.13       
+
+*SIG L5 
+IC17.40       JPL.6         CONY.11       
+
+*SIG L4 
+IC17.39       JPL.5         CONY.9        
+
+*SIG L3 
+IC17.38       JPL.4         CONY.7        
+
+*SIG L2 
+IC17.37       JPL.3         CONY.5        
+
+*SIG L1 
+IC17.36       JPL.2         CONY.3        
+
+*SIG L0 
+IC17.35       JPL.1         CONY.1        
+
+*SIG K7 
+IC17.82       JPK.8         CONX.15       
+
+*SIG K6 
+IC17.83       JPK.7         CONX.13       
+
+*SIG K5 
+IC17.84       JPK.6         CONX.11       
+
+*SIG K4 
+IC17.85       JPK.5         CONX.9        
+
+*SIG K3 
+IC17.86       JPK.4         CONX.7        
+
+*SIG K2 
+IC17.87       JPK.3         CONX.5        
+
+*SIG K1 
+IC17.88       JPK.2         CONX.3        
+
+*SIG K0 
+IC17.89       JPK.1         CONX.1        
+
+*SIG J7 
+IC17.79       JPJ.8         CONX.19       
+
+*SIG J6 
+IC17.69       JPJ.7         
+
+*SIG J5 
+IC17.68       JPJ.6        
+
+*SIG J4 
+IC17.67       JPJ.5         
+
+*SIG J3 
+IC17.66       JPJ.4         
+
+*SIG J2 
+IC17.65       JPJ.3         CONX.17       
+
+*SIG J1 
+IC17.64       JPJ.2         JP32XD.8      U2.9          UART3.3       
+
+*SIG J0 
+IC17.63       JPJ.1         JP32XD.7      U2.10         UART3.2       
+
+*SIG H0 
+IC17.12       JPH.1         UART2.2       
+
+*SIG H1 
+IC17.13       JPH.2         UART2.3       
+
+*SIG H2 
+IC17.14       JPH.3         H2.2          AUXSEN.7      
+
+*SIG H3 
+IC17.15       JPH.4         IC5.3         
+
+*SIG H4 
+IC17.16       JPH.5         IC6.3         
+
+*SIG H5 
+IC17.17       JPH.6         IC7.3         
+
+*SIG H6 
+IC17.18       JPH.7         IC8.3         
+
+*SIG H7 
+IC17.27       JPH7.1        SENSOR.13     
+
+*SIG 32XC7 
+U2.26         JP32XC.1      
+
+*SIG 32XC6 
+U2.25         JP32XC.2      
+
+*SIG 32XC5 
+U2.24         JP32XC.3      
+
+*SIG 32XC4 
+U2.23         JP32XC.4      
+
+*SIG 32XC3 
+U2.22         JP32XC.5      32X1.5        
+
+*SIG 32XC2 
+U2.21         JP32XC.6      32X1.4        
+
+*SIG 32XC1 
+U2.20         JP32XC.7      32X2.5        
+
+*SIG 32XC0 
+U2.19         JP32XC.8      32X2.4        
+
+*SIG 32XD7 
+U2.16         JP32XD.1      32X2.3        
+
+*SIG 32XD6 
+U2.15         JP32XD.2      
+
+*SIG 32XD5 
+U2.14         JP32XD.3      ENX2.8        
+
+*SIG 32XD4 
+U2.13         JP32XD.4      ENX1.8        
+
+*SIG 32XD3 
+U2.12         JP32XD.5      ENX2.6        
+
+*SIG 32XD2 
+U2.11         JP32XD.6      ENX1.6        
+
+*SIG F7 
+IC17.90       JPF.8         ADC7.2        
+
+*SIG F6 
+IC17.91       JPF.7         ADC6.2        
+
+*SIG F5 
+IC17.92       JPF.6         ADC5.2        
+
+*SIG F4 
+IC17.93       JPF.5         ADC4.2        
+
+*SIG F3 
+IC17.94       JPF.4         ADC3.2        
+
+*SIG F2 
+IC17.95       JPF.3         AUXSEN.5      
+
+*SIG F1 
+IC17.96       JPF.2         AUXSEN.3      
+
+*SIG F0 
+IC17.97       JPF.1         AUXSEN.1      
+
+*SIG 32YA7 
+U3.30         JP32YA.1      CON32Y.15     
+
+*SIG 32YA6 
+U3.31         JP32YA.2      CON32Y.13     
+
+*SIG 32YA5 
+U3.32         JP32YA.3      CON32Y.11     
+
+*SIG 32YA4 
+U3.33         JP32YA.4      CON32Y.9      
+
+*SIG 32YA3 
+U3.34         JP32YA.5      CON32Y.7      
+
+*SIG 32YA2 
+U3.35         JP32YA.6      CON32Y.5      
+
+*SIG 32YA1 
+U3.36         JP32YA.7      CON32Y.3      
+
+*SIG 32YA0 
+U3.37         JP32YA.8      CON32Y.1      
+
+*SIG 32YB7 
+U3.3          JP32YB.1      JPG32Y.4      
+
+*SIG 32YB6 
+U3.2          JP32YB.2      JPG32Y.5      
+
+*SIG 32YB5 
+U3.1          JP32YB.3      JPG32Y.6      
+
+*SIG 32YB4 
+U3.44         JP32YB.4      
+
+*SIG 32YB3 
+U3.43         JP32YB.5      32Y1.3        
+
+*SIG 32YB2 
+U3.42         JP32YB.6      
+
+*SIG 32YB1 
+U3.41         JP32YB.7      CON32Y.19     
+
+*SIG 32YB0 
+U3.40         JP32YB.8      CON32Y.17     
+
+*SIG A7 
+IC17.71       JPA.8         IC8.5         
+
+*SIG A6 
+IC17.72       JPA.7         IC8.4         
+
+*SIG A5 
+IC17.73       JPA.6         IC7.5         
+
+*SIG A4 
+IC17.74       JPA.5         IC7.4         
+
+*SIG A3 
+IC17.75       JPA.4         IC6.5         
+
+*SIG A2 
+IC17.76       JPA.3         IC6.4         
+
+*SIG A1 
+IC17.77       JPA.2         IC5.5         
+
+*SIG A0 
+IC17.78       JPA.1         IC5.4         
+
+*SIG B0 
+IC17.19       JPB.1         B0.2          C61.2         
+
+*SIG B1 
+IC17.20       JPB.2         JPROG.4       
+
+*SIG B2 
+IC17.21       JPB.3         JPROG.6       
+
+*SIG B3 
+IC17.22       JPB.4         JPROG.5       
+
+*SIG B4 
+IC17.23       JPB.5         IC9.3         
+
+*SIG B5 
+IC17.24       JPB.6         IC10.3        
+
+*SIG B6 
+IC17.25       JPB.7         IC11.3        
+
+*SIG B7 
+IC17.26       JPB.8         IC12.3        
+
+*SIG G5 
+IC17.1        JPG5.1        SENSOR.11     
+
+*SIG G4 
+IC17.29       JPG34.1       SENSOR.9      
+
+*SIG G3 
+IC17.28       JPG34.2       SENSOR.7      
+
+*SIG G0 
+IC17.51       JPG01.2       SENSOR.1      
+
+*SIG G1 
+IC17.52       JPG01.1       SENSOR.3      
+
+*SIG G2 
+IC17.70       JPG2.1        SENSOR.5      
+
+*SIG RST1280 
+IC17.30       R6.2          C49.1         RST.4         RST.3         
+JPROG.3       
+
+*SIG $$$9702 
+C47.2         X1.1          IC17.33       
+
+*SIG $$$26 
+C48.2         X1.2          IC17.34       
+
+*SIG $$$8173 
+IC17.98       C45.2         JP6.2         
+
+*SIG $$$6540 
+JP6.1         R5.2          
+
+*SIG N1 
+R5.3          IC17.100      C46.1         L1.2          
+
+````````*SIG $$$6400 
+J4.2          C50.2         
+
+````````````*SIG $$$5925 
+J8.2          C51.2         
+
+`````````*SIG $$$1564 
+C55.1         J5.2          
+
+``````````*SIG $$$3591 
+J6.2          C52.1         
+
+*SIG 32YC7 
+U3.26         JP32YC.1      
+
+*SIG 32YC6 
+U3.25         JP32YC.2      
+
+*SIG 32YC5 
+U3.24         JP32YC.3      
+
+*SIG 32YC4 
+U3.23         JP32YC.4      
+
+*SIG 32YC3 
+U3.22         JP32YC.5      32Y1.5        
+
+*SIG 32YC2 
+U3.21         JP32YC.6      32Y1.4        
+
+*SIG 32YC1 
+U3.20         JP32YC.7      32Y2.5        
+
+*SIG 32YC0 
+U3.19         JP32YC.8      32Y2.4        
+
+*SIG 32YD7 
+U3.16         JP32YD.1      32Y2.3        
+
+*SIG 32YD6 
+U3.15         JP32YD.2      
+
+*SIG 32YD5 
+U3.14         JP32YD.3      ENY2.8        
+
+*SIG 32YD4 
+U3.13         JP32YD.4      ENY1.8        
+
+*SIG 32YD3 
+U3.12         JP32YD.5      ENY2.6        
+
+*SIG 32YD2 
+U3.11         JP32YD.6      ENY1.6        
+
+*SIG AGND 
+IC11.15       C32.2         32X.2         32X.4         32X.6         
+32X.8         32X.10        32X.12        32X.14        32Y.2         
+32Y.4         32Y.6         32Y.8         32Y.10        32Y.12        
+32Y.14        CON1.2        CON1.4        CON1.6        CON1.8        
+CON1.10       CON1.12       CON1.14       CON2.2        CON2.4        
+CON2.6        CON2.10       CON2.8        CON2.12       CON2.14       
+CON4.2        CON4.4        CON4.6        CON4.8        CON4.10       
+CON4.12       CON4.14       CON3.14       CON3.12       CON3.10       
+CON3.8        CON3.6        CON3.4        CON3.2        32X1.15       
+C9.2          32X2.15       C11.2         32Y1.15       C36.2         
+IC5.15        C13.2         IC7.15        C24.2         32Y2.15       
+C38.2         IC6.15        C22.2         IC8.15        C26.2         
+IC9.15        C28.2         IC10.15       C30.2         IC12.15       
+C34.2         32X1.9        32X2.9        32Y1.9        IC5.9         
+IC7.9         32Y2.9        IC6.9         IC8.9         IC9.9         
+IC11.9        IC10.9        IC12.9        ABAT.1        ABAT.2        
+C41.2         C39.2         7805T.G       C40.2         LED1.K        
+AUX5A1.2      AUX5A2.2      TA1.1         TA2.1         
+
+*SIG $$$3863 
+U3.7          Q3.2          C16.2         
+
+*SIG $$$5412 
+U3.8          Q3.1          C17.2         
+
+*SIG RST32Y 
+U3.4          JPG32Y.3      
+
+*SIG $$$7464 
+R3.2          C15.1         RST32Y.4      RST32Y.3      
+
+*SIG $$$10 
+U2.8          Q1.1          C7.2          
+
+*SIG N2 
+U2.7          Q1.2          C6.2          
+
+*SIG RST32X 
+JPG32X.3      U2.4          
+
+*SIG $$$5963 
+R1.2          C1.1          RST32X.4      RST32X.3      
+
+*SIG $$$7671 
+RST32X.1      RST32X.2      C1.2          
+
+*SIG $$$8739 
+IC5.14        CON1.3        
+
+*SIG MD1 
+IC5.13        CON1.5        
+
+*SIG MB1 
+IC5.12        CON1.7        
+
+*SIG MP2 
+CON1.9        IC6.14        
+
+*SIG MD2 
+IC6.13        CON1.11       
+
+*SIG MB2 
+CON1.13       IC6.12        
+
+*SIG MP5 
+CON3.3        IC9.14        
+
+*SIG MD5 
+IC9.13        CON3.5        
+
+*SIG MB5 
+CON3.7        IC9.12        
+
+*SIG MP6 
+CON3.9        IC10.14       
+
+*SIG MD6 
+IC10.13       CON3.11       
+
+*SIG MB6 
+CON3.13       IC10.12       
+
+*SIG MP3 
+CON2.3        IC7.14        
+
+*SIG MD3 
+IC7.13        CON2.5        
+
+*SIG MB3 
+CON2.7        IC7.12        
+
+*SIG MP4 
+CON2.9        IC8.14        
+
+*SIG MD4 
+IC8.13        CON2.11       
+
+*SIG MB4 
+CON2.13       IC8.12        
+
+*SIG MP7 
+CON4.3        IC11.14       
+
+*SIG MD7 
+IC11.13       CON4.5        
+
+*SIG MB7 
+CON4.7        IC11.12       
+
+*SIG MP8 
+CON4.9        IC12.14       
+
+*SIG MD8 
+IC12.13       CON4.11       
+
+*SIG MB8 
+CON4.13       IC12.12       
+
+*SIG 32YP1M 
+32Y.3         32Y1.14       
+
+*SIG 32YD1M 
+32Y.5         32Y1.13       
+
+*SIG 32YB1M 
+32Y1.12       32Y.7         
+
+*SIG 32YP2M 
+32Y.9         32Y2.14       
+
+*SIG 32YD2M 
+32Y2.13       32Y.11        
+
+*SIG 32YB2M 
+32Y.13        32Y2.12       
+
+*SIG 32XP1M 
+32X.3         32X1.14       
+
+*SIG 32XD1M 
+32X1.13       32X.5         
+
+*SIG 32XB1M 
+32X.7         32X1.12       
+
+*SIG 32X2P2M 
+32X.9         32X2.14       
+
+*SIG 32XD2M 
+32X2.13       32X.11        
+
+*SIG 32XB2M 
+32X.13        32X2.12       
+
+*SIG $$$4982 
+JLED1.1       LED11.A       
+
+*SIG $$$5460 
+JLED1.2       LED12.A       
+
+*SIG $$$5801 
+JLED1.3       LED13.A       
+
+*SIG $$$6042 
+JLED1.4       LED14.A       
+
+*SIG $$$6460 
+JLED1.5       LED15.A       
+
+*SIG $$$6707 
+JLED1.6       LED16.A       
+
+*SIG $$$6910 
+JLED1.7       LED17.A       
+
+*SIG $$$7141 
+JLED1.8       LED18.A       
+
+*SIG $$$8267 
+LED11.K       RN2.2         
+
+*SIG $$$8816 
+LED12.K       RN2.3         
+
+*SIG $$$9069 
+LED13.K       RN2.4         
+
+*SIG $$$9475 
+LED14.K       RN2.5         
+
+*SIG $$$9772 
+LED15.K       RN2.6         
+
+*SIG $$$101 
+LED16.K       RN2.7         
+
+*SIG $$$530 
+LED17.K       RN2.8         
+
+*SIG $$$854 
+LED18.K       RN2.9         
+
+*SIG $$$366 
+R2.2          LED1.A        
+
+*SIG $$$7391 
+D1.K          C41.1         C39.1         7805T.I       D2.K          
+
+*SIG $$$55 
+D1.A          S1.3          
+
+*SIG $$$818 
+S1.1          S1.2          ABAT.3        
+
+*SIG $$$5339 
+DBAT.1        DBAT.2        C44.2         C42.2         7805T1.G      
+C43.2         LED2.K        
+
+*SIG $$$1595 
+DBAT.14       S3.1          S3.2          
+
+*SIG $$$2622 
+S3.3          D3.A          
+
+*SIG $$$3369 
+D3.K          C44.1         C42.1         7805T1.I      D8.K          
+
+*SIG $$$2332 
+R4.2          LED2.A        

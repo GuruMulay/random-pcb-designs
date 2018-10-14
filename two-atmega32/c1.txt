@@ -1,0 +1,73 @@
+
+NET LIST REPORT -- MIT6842.job -- Fri Nov 16 11:38:22 2012
+
+
+           
+
+*SIG GND 
+
+
+RST32X.3            ADC4.1        ADC5.1        
+ADC3.1        ADC6.1        ADC7.1       U2.28         U2.18         
+C4.2          C2.2          U2.39         C5.2          U2.6          
+C6.1          C3.2          C7.1          C10.2         32X2.2        
+32X1.8        TD2.1         32X2.8        IC11.2        C31.2         
+IC11.8        IC12.2        C33.2         32X1.2        C8.2          
+IC12.8        IC9.2         C27.2            IC9.8         
+IC10.2        C29.2                IC10.8       
+  C52.2              C51.1         J7.12         
+IC7.2         C23.2         J3.1          IC7.8         IC8.2         
+C25.2         UART3.1       IC8.8         IC5.2         C12.2         
+IC5.8         IC6.2         C14.2         IC6.8         32Y1.2        
+C35.2         32Y1.8        32Y2.2        C37.2         32Y2.8        
+     
+D7.1          D6.1             C19.2         
+U3.28         U3.18         C20.2         U3.39         C18.2         
+C15.2         U3.6          C17.1         C16.1         C21.2         
+RN2.1        
+````` RST32Y.3      RST32Y.1      TD4.1         JPG32Y.1      
+ENY2.3        ENY1.3        SENSOR.16     SENSOR.14     SENSOR.12     
+SENSOR.10     SENSOR.8      SENSOR.6      SENSOR.4      SENSOR.2      
+UART0.1       EN1.3         EN1.5         EN1.2         E6.1          
+     EN2.5         EN2.3         EN2.2         C53.2         
+C56.2         C46.2         J11.24             J11.6         
+SLCD.1        UART2.1       J9.11                  
+    RST.4         RST.2         C49.2         UART1.1       
+J13.7              C64.2         C62.2         
+JPG32X.1      ENX2.3        ENX1.3                
+AUX5D1.1      TD1.1         
+AUX5D2.1      TD3.1         C45.1         
+R5.1          AUXSEN.4      AUXSEN.6      AUXSEN.2      AUXSEN.8      
+AUXSEN.10     AUXSEN.12     AUXSEN.14     AUXSEN.16     
+
+
+ 
+       
+        
+!!!!
+here rst.1 and rst.3 are shorted intead of 2 and 1 that wont b a problem i think! 
+*SIG RST1280 
+RST.1         R6.2          C49.1         RST.3         J13.5         
+JPROG.3       
+
+ !!!!  
+
+
+
+same here 
+
+
+*SIG RST32Y 
+```````U3.4          JPG32Y.3      RST32Y.4     /////// RST32Y.2      C15.1         
+```R3.2           
+
+*SIG RST32X 
+````````C1.1          R1.2          RST32X.4      RST32X.2      U2.4          
+JPG32X.3      
+
+
+       
+
+!!!!!!! 
+      
+     
