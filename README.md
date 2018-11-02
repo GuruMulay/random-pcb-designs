@@ -4,9 +4,9 @@ This repo contains a bunch PCB that I designed during my undergrad as a part of 
 
 List of projects:
 * Atmega32uc3 Prototype PCB
-* FTDI chip based Programmer PCB for Micro-controller
+* FTDI chip based Programmer PCB for AVR Micro-controllers
 * Comparator Board for a Line-sensor
-* Pnuematic Piston Driver PCB
+* Pneumatic Piston Driver PCB
 * Transmitter Board
 * ULN IC Board
 * PTN Voltage Regulator PCB
